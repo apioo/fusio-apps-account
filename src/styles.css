@@ -49,18 +49,6 @@ body {
   padding-bottom:64px;
 }
 
-.fusio-intro {
-  background-image: url(assets/header.jpg);
-  background-position: left top;
-  background-repeat: no-repeat;
-  background-color: #191a1f;
-  margin: -15px;
-  padding: 15px;
-  padding-top: 32px;
-  height: 400px;
-  border-bottom: 1px solid #ccc;
-}
-
 .fusio-intro h1 {
   font-size: 3em;
   margin-bottom: 32px;
